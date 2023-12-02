@@ -12,3 +12,5 @@
 1. [Часто задаваемые вопросы](FAQ.md)
 
 Канал в Telegram: https://t.me/LearnRubyForPikabu
+
+Проект обучения Ruby
